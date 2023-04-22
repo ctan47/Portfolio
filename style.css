@@ -19,7 +19,7 @@
 .Name {
   font-size: 36px;
   font-weight: bold;
-  color: #ec407a;
+  color: black;
   margin-bottom: 10px;
 }
 
@@ -31,7 +31,7 @@
 .about h2, .profile h2, .education h2, .skills h2, .certification h2, .projects h2, .internships h2 {
   font-size: 24px;
   font-weight: bold;
-  color: #ec407a;
+  color: black;
   margin-bottom: 20px;
 }
 
@@ -67,7 +67,7 @@
 .education .content h3 {
   font-size: 22px;
   font-weight: bold;
-  color: #ec407a;
+  color: black;
   margin-bottom: 5px;
 }
 
@@ -75,7 +75,7 @@
 .projects .content h3 {
   font-size: 22px;
   font-weight: bold;
-  color: #ec407a;
+  color: black;
   margin-bottom: 5px;
 }
 
@@ -83,7 +83,7 @@
 .internships .content h3 {
   font-size: 22px;
   font-weight: bold;
-  color: #ec407a;
+  color: black;
   margin-bottom: 5px;
 }
 
@@ -97,6 +97,6 @@
 .certification .content h3 {
   font-size: 22px;
   font-weight: bold;
-  color: #ec407a;
+  color: black;
   margin-bottom: 5px;
 }
