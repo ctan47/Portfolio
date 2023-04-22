@@ -4,6 +4,10 @@
   margin: auto;
   padding: 20px;
   font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #ccc;
 }
 
 /* Header styles */
@@ -15,7 +19,7 @@
 .Name {
   font-size: 36px;
   font-weight: bold;
-  color: #333;
+  color: #ec407a;
   margin-bottom: 10px;
 }
 
@@ -27,13 +31,13 @@
 .about h2, .profile h2, .education h2, .skills h2, .certification h2, .projects h2, .internships h2 {
   font-size: 24px;
   font-weight: bold;
-  color: #333;
+  color: #ec407a;
   margin-bottom: 20px;
 }
 
 .content p {
   font-size: 18px;
-  color: #666;
+  color: #757575;
   margin-bottom: 10px;
 }
 
@@ -45,12 +49,12 @@
 
 .content li {
   font-size: 18px;
-  color: #666;
+  color: #757575;
   margin-bottom: 5px;
 }
 
 .content a {
-  color: #337ab7;
+  color: #f06292;
   text-decoration: none;
   font-weight: bold;
 }
@@ -63,7 +67,7 @@
 .education .content h3 {
   font-size: 22px;
   font-weight: bold;
-  color: #333;
+  color: #ec407a;
   margin-bottom: 5px;
 }
 
@@ -71,7 +75,7 @@
 .projects .content h3 {
   font-size: 22px;
   font-weight: bold;
-  color: #333;
+  color: #ec407a;
   margin-bottom: 5px;
 }
 
@@ -79,13 +83,13 @@
 .internships .content h3 {
   font-size: 22px;
   font-weight: bold;
-  color: #333;
+  color: #ec407a;
   margin-bottom: 5px;
 }
 
 .internships .content p {
   font-size: 18px;
-  color: #666;
+  color: #757575;
   margin-bottom: 5px;
 }
 
@@ -93,6 +97,6 @@
 .certification .content h3 {
   font-size: 22px;
   font-weight: bold;
-  color: #333;
+  color: #ec407a;
   margin-bottom: 5px;
 }
